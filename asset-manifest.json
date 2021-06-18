@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://soumen-ui.github.io/csb-o4o12/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://soumen-ui.github.io/csb-o4o12/static/js/main.63b523b2.chunk.js",
+    "main.js.map": "https://soumen-ui.github.io/csb-o4o12/static/js/main.63b523b2.chunk.js.map",
+    "runtime-main.js": "https://soumen-ui.github.io/csb-o4o12/static/js/runtime-main.c410e32a.js",
+    "runtime-main.js.map": "https://soumen-ui.github.io/csb-o4o12/static/js/runtime-main.c410e32a.js.map",
+    "static/js/2.2350909c.chunk.js": "https://soumen-ui.github.io/csb-o4o12/static/js/2.2350909c.chunk.js",
+    "static/js/2.2350909c.chunk.js.map": "https://soumen-ui.github.io/csb-o4o12/static/js/2.2350909c.chunk.js.map",
+    "index.html": "https://soumen-ui.github.io/csb-o4o12/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://soumen-ui.github.io/csb-o4o12/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2350909c.chunk.js.LICENSE.txt": "https://soumen-ui.github.io/csb-o4o12/static/js/2.2350909c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c410e32a.js",
+    "static/js/2.2350909c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.63b523b2.chunk.js"
+  ]
+}
